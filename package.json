@@ -1,0 +1,21 @@
+{
+    "name": "pinkish-pastel",
+    "displayName": "pinkish-pastel",
+    "description": "A pinkish, pastel theme :^)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pinkish Pastel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pinkish Pastel-color-theme.json"
+            }
+        ]
+    }
+}
